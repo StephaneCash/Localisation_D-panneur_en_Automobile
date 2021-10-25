@@ -17,10 +17,10 @@
     <div class='sidebar'>
         <div class="sidebar-header">
             <h3 class="brand">
-                <span class="fa fa-plus"></span>
+                <span class="fa fa-car"></span>
                 <span>Loc_Dép.</span>
             </h3>
-            <label for="sidebar-toggle" class="fa fa-car fa-2x" style="margin-top: 14px"></label>
+            <label for="sidebar-toggle" class="fa fa-list fa-2x" style="margin-top: 14px"></label>
         </div>
 
         <div class="sidebar-menu">
